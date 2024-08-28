@@ -1,0 +1,155 @@
+{
+  "success": 1,
+  "result": [
+    {
+      "player_place": 1,
+      "player_name": "K. Mbapp\u00e9",
+      "player_key": 2354545782,
+      "team_name": "PSG",
+      "team_key": 100,
+      "goals": 10,
+      "assists": null,
+      "penalty_goals": 3
+    },
+    {
+      "player_place": 2,
+      "player_name": "A. Adams",
+      "player_key": 613735972,
+      "team_name": "Montpellier",
+      "team_key": 3819,
+      "goals": 7,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 3,
+      "player_name": "Mostafa Mohamed",
+      "player_key": 41432086,
+      "team_name": "Nantes",
+      "team_key": 3820,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 2
+    },
+    {
+      "player_place": 4,
+      "player_name": "W. Ben Yedder",
+      "player_key": 2876453852,
+      "team_name": "Monaco",
+      "team_key": 3817,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 5,
+      "player_name": "A. Golovin",
+      "player_key": 2961516195,
+      "team_name": "Monaco",
+      "team_key": 3817,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 7,
+      "player_name": "T. Teuma",
+      "player_key": 3857372234,
+      "team_name": "Reims",
+      "team_key": 182,
+      "goals": 4,
+      "assists": null,
+      "penalty_goals": 1
+    },
+    {
+      "player_place": 6,
+      "player_name": "N. Alioui",
+      "player_key": 3680641092,
+      "team_name": "Le Havre",
+      "team_key": 3804,
+      "goals": 4,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 14,
+      "player_name": "B. Diakit\u00e9",
+      "player_key": 1138306037,
+      "team_name": "Lille",
+      "team_key": 160,
+      "goals": 3,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 13,
+      "player_name": "R. Del Castillo",
+      "player_key": 1281576558,
+      "team_name": "Brest",
+      "team_key": 3823,
+      "goals": 3,
+      "assists": 3,
+      "penalty_goals": 2
+    },
+    {
+      "player_place": 12,
+      "player_name": "T. Dallinga",
+      "player_key": 1049514244,
+      "team_name": "Toulouse",
+      "team_key": 3794,
+      "goals": 3,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 11,
+      "player_name": "M. Bayo",
+      "player_key": 889266682,
+      "team_name": "Le Havre",
+      "team_key": 3804,
+      "goals": 3,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 10,
+      "player_name": "F. Balogun",
+      "player_key": 3224443369,
+      "team_name": "Monaco",
+      "team_key": 3817,
+      "goals": 3,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 9,
+      "player_name": "M. Akliouche",
+      "player_key": 2244515244,
+      "team_name": "Monaco",
+      "team_key": 3817,
+      "goals": 3,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 8,
+      "player_name": "Z. Aboukhlal",
+      "player_key": 2741262977,
+      "team_name": "Toulouse",
+      "team_key": 3794,
+      "goals": 3,
+      "assists": null,
+      "penalty_goals": 1
+    },
+    {
+      "player_place": 15,
+      "player_name": "R. Faivre",
+      "player_key": 3094397513,
+      "team_name": "Lorient",
+      "team_key": 3814,
+      "goals": 3,
+      "assists": null,
+      "penalty_goals": 0
+    }
+  ]
+}

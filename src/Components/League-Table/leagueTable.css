@@ -1,0 +1,219 @@
+p.ChampionsLeague, p.Europa, p.CLQ, p.ECLQ, p.relegation, p.relegation_playoff {
+  padding-bottom: .3em;
+}
+
+p.ChampionsLeague {
+  border-bottom: 2px solid greenyellow;
+}
+
+p.Europa {
+  border-bottom: 2px solid blue;
+}
+
+p.CLQ {
+  border-bottom: 2px solid var(--yellow);
+}
+
+p.ECLQ {
+  border-bottom: 2px solid orangered;
+}
+
+p.relegation {
+  border-bottom: 2px solid red;
+}
+
+p.relegation_playoff {
+  border-bottom: 2px solid purple;
+}
+
+div.lightgreen, div.blue, div.defaultYellow, div.orangered, div.red, div.pink {
+  width: 20px;
+  height: 20px;
+}
+
+div.lightgreen {
+  background: lightgreen;
+}
+
+div.blue {
+  background: blue;
+}
+
+div.orangered {
+  background: orangered;
+}
+
+div.red {
+  background: red;
+}
+
+div.pink {
+  background: #ff7f84;
+}
+
+div.defaultYellow {
+  background: var(--yellow);
+}
+
+div.cc_container {
+  padding: 0 3rem 3rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+div.standing {
+  padding-inline: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-bottom: 2px solid var(--yellow);
+  padding-block: 2rem;
+}
+
+div.standing div.rank-teamname,
+div.standing div.standing-value,
+div.standing div.standing-value-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 2rem;
+}
+
+div.standing div.standing-value p {
+  max-width: 35px;
+  width: 20px;
+}
+
+div.standing div.rank-teamname {
+  gap: 1.7rem;
+}
+
+div.standing div.rank-teamname div.name_logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 0.4em;
+}
+
+div.standing div.rank-teamname div.name_logo img {
+  width: 2em;
+}
+
+div.name_filter {
+  padding-top: 2rem;
+  margin-inline: 1rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+div.heading {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-top: 2px solid var(--yellow);
+  border-bottom: 2px solid var(--yellow);
+  padding-block: 2rem;
+  margin-top: 2rem;
+}
+
+div.heading div.rank,
+div.heading div.table-stats {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+div.heading div.rank {
+  padding-inline: 2rem;
+  gap: 2.5rem;
+}
+
+div.heading div.table-stats {
+  gap: 2.5rem;
+}
+
+@media (max-width: 1201px) {
+  div.standing {
+    padding-inline: 1.3rem;
+  }
+  div.standing div {
+    gap: 1rem;
+  }
+  div.standing div.rank-teamname {
+    gap: 1.3rem;
+  }
+  div.heading div.rank {
+    padding-inline: 1rem;
+    font-size: 90%;
+    gap: 0.5rem;
+  }
+  div.heading div.table-stats {
+    gap: 2.35rem;
+  }
+}
+
+@media (max-width: 871px) {
+  div.standing {
+    padding-inline: 1.3rem;
+  }
+  div.standing div.standing-value p {
+    max-width: 35px;
+    width: 1.1em;
+  }
+  div.standing div.standing-value-container {
+    gap: 1rem;
+  }
+  div.standing div.rank-teamname {
+    gap: 1.4rem;
+  }
+  div.heading div.rank {
+    gap: 0.5rem;
+  }
+  div.heading div.table-stats {
+    gap: 1.5em;
+  }
+  div.name_filter {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    gap: 1em;
+  }
+}
+
+@media (max-width: 471px) {
+  div.standing h3 {
+    font-size: 80%;
+    width: 70%;
+  }
+}
+/*# sourceMappingURL=leagueTable.css.map */

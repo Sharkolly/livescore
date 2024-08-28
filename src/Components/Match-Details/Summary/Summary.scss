@@ -1,0 +1,81 @@
+div.team_substitutions {
+  width: 80%;
+  margin-inline: auto;
+  
+}
+
+div.match_substitution {
+  display: flex;
+  justify-content: space-between;
+}
+
+p.sub_team_name{
+    font-size: 1.3rem;
+    opacity: .9;
+    margin-bottom: .6rem;
+}
+
+div.sub_container {
+  display: flex;
+  gap: 0.9rem;
+  align-items: center;
+  opacity: 0.77;
+
+  p.home_sub,
+  p.away_sub {
+    // width: 33%;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  div.sub_time {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    p {
+      padding: 1rem;
+      font-weight: bold;
+      font-size: 0.8rem;
+      font-style: italic;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+  p {
+    margin-block: 0.7rem;
+  }
+}
+
+div.away_sub {
+  p {
+    text-align: right;
+  }
+}
+div.sub_container_right {
+  justify-content: end;
+}
+
+@media (max-width: 890px) and (min-width: 750px){
+
+    div.team_substitutions {
+      width: 90%;
+    }
+
+}
+@media (max-width: 790px) {
+  div.team_substitutions {
+    width: 100%;
+    // scale: .9;
+
+
+    p{
+        font-size: 87%;
+    }
+  }
+
+  div.sub_container {
+ 
+    gap: .3rem;
+  }
+}

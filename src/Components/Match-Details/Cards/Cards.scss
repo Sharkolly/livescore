@@ -1,0 +1,74 @@
+div.match_stats_cards {
+  margin-bottom: 1rem;
+  // margin-left: .55rem;
+  width: 75%;
+  margin-inline: auto;
+  opacity: 0.75;
+}
+div.cards {
+  display: flex;
+  // gap: 1rem;
+  align-items: center;
+}
+
+div.cards_stats {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 1rem;
+
+  div {
+    width: 50%;
+    text-align: center;
+  }
+
+  div.cards_time {
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+  }
+}
+div.yellow {
+  width: 15px;
+  height: 20px;
+  background: yellow;
+  transform: rotate(190deg);
+  border-radius: 0.1rem;
+}
+div.red {
+  width: 15px;
+  height: 20px;
+  background: red;
+  transform: rotate(190deg);
+  border-radius: 0.1rem;
+}
+
+@media (max-width: 890px) {
+  div.match_stats_cards {
+    scale: 0.98;
+    width: 90%;
+  }
+}
+@media (max-width: 790px) {
+  div.cards_stats {
+    div {
+      width: 60%;
+      margin-bottom: 1rem;
+    }
+
+    div.cards_time {
+      width: 10%;
+    }
+  }
+
+  div.cards {
+    // gap: .rem;
+  }
+
+  div.match_stats_cards {
+    scale: 0.95;
+    width: 95%;
+  }
+}

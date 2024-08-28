@@ -1,0 +1,115 @@
+.gen {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.prod {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 1rem;
+}
+
+.prod div {
+  margin: 0;
+}
+
+.prod p {
+  margin: 0;
+}
+
+.prod input {
+  width: 40px;
+  background: white;
+  color: black;
+  text-align: center;
+  border-radius: 3px;
+  padding-block: 0.4rem;
+}
+
+.prod input.bet {
+  background: green;
+  color: white;
+}
+
+.prod input.blue {
+  background: blue;
+  color: white;
+}
+
+div.val {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+div.val p {
+  background-color: green;
+  height: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-width: 6rem;
+  text-align: center;
+  border-radius: 5px;
+  padding-inline: 0.5rem;
+}
+
+.key {
+  text-align: center;
+  color: yellow;
+}
+
+.dd {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 70%;
+  margin-inline: auto;
+  margin-top: 2rem;
+}
+
+.odd {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  gap: 1rem;
+}
+
+button {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+button:hover {
+  background: green;
+  color: white;
+}
+/*# sourceMappingURL=Bet.css.map */

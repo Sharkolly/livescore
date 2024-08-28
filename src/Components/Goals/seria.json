@@ -1,0 +1,185 @@
+{
+  "success": 1,
+  "result": [
+    {
+      "player_place": 1,
+      "player_name": "L. Mart\u00ednez",
+      "player_key": 2464726737,
+      "team_name": "Inter Milan",
+      "team_key": 79,
+      "goals": 12,
+      "assists": null,
+      "penalty_goals": 1
+    },
+    {
+      "player_place": 2,
+      "player_name": "O. Giroud",
+      "player_key": 4271018749,
+      "team_name": "AC Milan",
+      "team_key": 159,
+      "goals": 6,
+      "assists": 3,
+      "penalty_goals": 3
+    },
+    {
+      "player_place": 3,
+      "player_name": "R. Lukaku",
+      "player_key": 592781429,
+      "team_name": "Roma",
+      "team_key": 139,
+      "goals": 6,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 4,
+      "player_name": "V. Osimhen",
+      "player_key": 4282558875,
+      "team_name": "Napoli",
+      "team_key": 152,
+      "goals": 6,
+      "assists": null,
+      "penalty_goals": 2
+    },
+    {
+      "player_place": 7,
+      "player_name": "N. Gonz\u00e1lez",
+      "player_key": 379872929,
+      "team_name": "Fiorentina",
+      "team_key": 4974,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 10,
+      "player_name": "G. Scamacca",
+      "player_key": 3784117593,
+      "team_name": "Atalanta",
+      "team_key": 85,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 9,
+      "player_name": "M. Politano",
+      "player_key": 4174436871,
+      "team_name": "Napoli",
+      "team_key": 152,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 1
+    },
+    {
+      "player_place": 8,
+      "player_name": "A. Gu\u00f0mundsson",
+      "player_key": 2441657013,
+      "team_name": "Genoa",
+      "team_key": 4986,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 6,
+      "player_name": "A. Colpani",
+      "player_key": 818864052,
+      "team_name": "Monza",
+      "team_key": 4990,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 5,
+      "player_name": "D. Berardi",
+      "player_key": 3390910691,
+      "team_name": "Sassuolo",
+      "team_key": 4975,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 2
+    },
+    {
+      "player_place": 11,
+      "player_name": "M. Soul\u00e9",
+      "player_key": 4265859702,
+      "team_name": "Frosinone",
+      "team_key": 5000,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 1
+    },
+    {
+      "player_place": 12,
+      "player_name": "G. Bonaventura",
+      "player_key": 1915699434,
+      "team_name": "Fiorentina",
+      "team_key": 4974,
+      "goals": 4,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 13,
+      "player_name": "H. \u00c7alhano\u011flu",
+      "player_key": 322318492,
+      "team_name": "Inter Milan",
+      "team_key": 79,
+      "goals": 4,
+      "assists": null,
+      "penalty_goals": 4
+    },
+    {
+      "player_place": 14,
+      "player_name": "F. Chiesa",
+      "player_key": 229082468,
+      "team_name": "Juventus",
+      "team_key": 96,
+      "goals": 4,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 15,
+      "player_name": "N. Krstovi\u0107",
+      "player_key": 1348749812,
+      "team_name": "Lecce",
+      "team_key": 5010,
+      "goals": 4,
+      "assists": null,
+      "penalty_goals": 1
+    },
+    {
+      "player_place": 1,
+      "player_name": "C. Ngonge",
+      "player_key": 366023681,
+      "team_name": "Verona",
+      "team_key": 4982,
+      "goals": 2,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 3,
+      "player_name": "M. Faraoni",
+      "player_key": 232443902,
+      "team_name": "Verona",
+      "team_key": 4982,
+      "goals": 1,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 2,
+      "player_name": "E. Ampadu",
+      "player_key": 2180554336,
+      "team_name": "Spezia",
+      "team_key": 4977,
+      "goals": 1,
+      "assists": null,
+      "penalty_goals": 0
+    }
+  ]
+}

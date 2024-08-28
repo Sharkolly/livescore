@@ -1,0 +1,168 @@
+div.club_team_player_image {
+  width: 30%;
+  img {
+    width: 90%;
+  }
+}
+div.teams_container {
+  display: flex;
+  justify-content: space-between;
+  flex: 1 1 30%;
+}
+
+div.player_stats_details {
+  width: 30%;
+  // display: inline;
+}
+div.player-container {
+  // flex-grow: 2;
+  p {
+    // font-size: .8rem;
+    // display: none;
+    opacity: 0.9;
+  }
+
+  img.team_badge {
+    width: 20%;
+    height: 20%;
+    // aspect-ratio: 3.5/3;
+  }
+}
+div.team_details {
+  // width: 30%;
+  p {
+    opacity: 0.7;
+  }
+}
+
+div.club_teams {
+  justify-content: end;
+  padding: 1.5rem;
+  border-bottom: 2px solid white;
+}
+
+div.pagination-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex: 1 1 40%;
+  gap: 1rem;
+  scale: 0.9;
+  padding-block: 1rem;
+}
+
+span.pagination {
+  cursor: pointer;
+
+  span {
+    border-inline: 2px solid grey;
+    border-top: 2px solid grey;
+    border-radius: 50%;
+    padding: 0.25rem 0.7rem;
+    width: 30px;
+    height: 30px;
+    // font-size: 90%;
+  }
+}
+@media (max-width: 1201px) {
+  // div.club_team_player_image{
+  //     width: 30%;
+  //     img{
+  //         width: 90%
+  //     }
+  // }
+}
+@media (max-width: 950px) {
+  div.player-container {
+    padding-inline: 0.6rem;
+  }
+}
+
+@media (max-width: 851px) and (min-width: 790px) {
+  div.teams_container {
+    // padding-inline: .6rem;
+    flex-wrap: wrap;
+    flex: 1 1 30%;
+  }
+  div.player_stats_details {
+    width: 40%;
+  }
+
+  div.club_team_player_image {
+    width: 35%;
+    img {
+      width: 80%;
+    }
+  }
+  div.team_details {
+    width: 10%;
+
+    img {
+      width: 100%;
+    }
+    p {
+      display: none;
+    }
+  }
+  div.club_team_player_image {
+    // width: 100%;
+    img {
+      width: 100%;
+    }
+  }
+}
+@media (max-width: 802px) {
+  div.player-container {
+    padding-left: 2rem;
+  }
+}
+@media (max-width: 771px) {
+  div.club_team_player_image {
+    width: 100%;
+    img {
+      width: 100%;
+    }
+  }
+  div.player-container {
+    img.team_badge {
+      width: 10%;
+      height: 20%;
+      // aspect-ratio: 3.5/3;
+    }
+  }
+
+  div.team_details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    // flex-direction: column;
+
+    p {
+      // font-size: .8rem;
+      display: none;
+    }
+  }
+  div.club_teams {
+    justify-content: center;
+    padding: 1.5rem;
+  }
+  div.player_stats_details {
+    width: 100%;
+  }
+  div.pagination-container {
+    gap: 0.56rem;
+  }
+  span.pagination {
+    margin-bottom: 0.5rem;
+    span {
+      // padding: 0.25rem 0.72rem;
+      // width: 40px;
+      // height: 40px;
+      
+    }
+  }
+}
+
+@media (max-width: 451px) {
+}

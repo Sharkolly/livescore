@@ -1,0 +1,120 @@
+div.search {
+  padding-top: 2rem;
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: .6em;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+h1.SearchPlayer {
+  text-align: center;
+  margin: 0;
+}
+
+div.search-input {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: .5rem;
+}
+
+div.search-input label {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+div.search-input input {
+  width: 100%;
+  outline: none;
+  border: none;
+  border-radius: .3rem;
+  opacity: .7;
+  padding: .5rem .6rem;
+  background: #000;
+  color: white;
+  border-inline: 2px solid white;
+  border-block: 2px solid white;
+}
+
+div.player-container {
+  z-index: -99;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  padding-block: 2rem;
+  border-bottom: 2px solid;
+  font-size: 135%;
+  opacity: 0.88;
+}
+
+p {
+  font-size: .95rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-top: .3rem;
+}
+
+div.name-image {
+  width: 37%;
+}
+
+div.name-image h3,
+div.name-image p {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+div.name-image img {
+  width: 100%;
+  border-radius: 10%;
+  margin-bottom: .5rem;
+}
+
+div.country-stats p,
+div.team-stats p {
+  padding-top: 1rem;
+}
+
+@media (max-width: 801px) {
+  div.search-input {
+    width: 65%;
+  }
+  h1.SearchPlayer {
+    font-size: 1.5em;
+  }
+  div.player-container {
+    padding-inline: 2rem;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    gap: 2rem;
+  }
+  div.name-image {
+    width: 100%;
+  }
+  div.name-image div.stats-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+}
+/*# sourceMappingURL=Search.css.map */

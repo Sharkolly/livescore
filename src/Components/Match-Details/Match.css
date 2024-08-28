@@ -1,0 +1,63 @@
+div.match_stats {
+  padding-top: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 0.7rem;
+  width: 80%;
+  margin-inline: auto;
+}
+
+div.match_stats a {
+  padding: 0.4rem 0.7rem;
+  border-radius: 0.3rem;
+  border: 2px solid var(--yellow);
+}
+
+div.match_stats a:hover {
+  border: 2px solid white;
+  background: var(--yellow);
+  color: white;
+}
+
+div.match_stats a.active {
+  border: 2px solid white;
+  background: var(--yellow);
+  color: white;
+}
+
+div.match_stats_outlet {
+  width: 90%;
+  margin-inline: auto;
+}
+
+div.match_outlet {
+  margin-block: 2rem;
+}
+
+div.match_stats_container {
+  padding-bottom: 1rem;
+}
+
+@media (max-width: 550px) {
+  div.match_stats {
+    width: 100%;
+  }
+}
+
+@media (max-width: 550px) {
+  div.match_stats {
+    gap: 0.45rem;
+  }
+  div.match_stats a {
+    font-size: 90%;
+    padding: 0.38rem 0.55rem;
+  }
+}
+
+@media (max-width: 380px) {
+  div.match_stats a {
+    font-size: 80%;
+  }
+}
+/*# sourceMappingURL=Match.css.map */

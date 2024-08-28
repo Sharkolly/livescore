@@ -1,0 +1,155 @@
+{
+  "success": 1,
+  "result": [
+    {
+      "player_place": 1,
+      "player_name": "E. Haaland",
+      "player_key": 659972248,
+      "team_name": "Manchester City",
+      "team_key": 80,
+      "goals": 11,
+      "assists": null,
+      "penalty_goals": 2
+    },
+    {
+      "player_place": 2,
+      "player_name": "Mohamed Salah",
+      "player_key": 2432523569,
+      "team_name": "Liverpool",
+      "team_key": 84,
+      "goals": 8,
+      "assists": 4,
+      "penalty_goals": 3
+    },
+    {
+      "player_place": 3,
+      "player_name": "Son Heung-Min",
+      "player_key": 499838227,
+      "team_name": "Tottenham Hotspur",
+      "team_key": 164,
+      "goals": 8,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 4,
+      "player_name": "J. Bowen",
+      "player_key": 2223691422,
+      "team_name": "West Ham United",
+      "team_key": 3081,
+      "goals": 7,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 5,
+      "player_name": "C. Wilson",
+      "player_key": 2121852954,
+      "team_name": "Newcastle United",
+      "team_key": 3100,
+      "goals": 7,
+      "assists": null,
+      "penalty_goals": 2
+    },
+    {
+      "player_place": 8,
+      "player_name": "B. Mbeumo",
+      "player_key": 1339054678,
+      "team_name": "Brentford",
+      "team_key": 3086,
+      "goals": 6,
+      "assists": null,
+      "penalty_goals": 2
+    },
+    {
+      "player_place": 7,
+      "player_name": "A. Isak",
+      "player_key": 1441588517,
+      "team_name": "Newcastle United",
+      "team_key": 3100,
+      "goals": 6,
+      "assists": null,
+      "penalty_goals": 1
+    },
+    {
+      "player_place": 6,
+      "player_name": "Hwang Hee-Chan",
+      "player_key": 3051106329,
+      "team_name": "Wolverhampton Wanderers",
+      "team_key": 3077,
+      "goals": 6,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 9,
+      "player_name": "E. Ferguson",
+      "player_key": 2184278685,
+      "team_name": "Brighton & Hove Albion",
+      "team_key": 3079,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 10,
+      "player_name": "E. Nketiah",
+      "player_key": 1551793337,
+      "team_name": "Arsenal",
+      "team_key": 141,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 11,
+      "player_name": "Douglas Luiz",
+      "player_key": 1335192908,
+      "team_name": "Aston Villa",
+      "team_key": 3088,
+      "goals": 5,
+      "assists": null,
+      "penalty_goals": 3
+    },
+    {
+      "player_place": 12,
+      "player_name": "O. Watkins",
+      "player_key": 1056875046,
+      "team_name": "Aston Villa",
+      "team_key": 3088,
+      "goals": 5,
+      "assists": 5,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 13,
+      "player_name": "J. \u00c1lvarez",
+      "player_key": 1560441904,
+      "team_name": "Manchester City",
+      "team_key": 80,
+      "goals": 4,
+      "assists": 3,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 14,
+      "player_name": "O. \u00c9douard",
+      "player_key": 1312361157,
+      "team_name": "Crystal Palace",
+      "team_key": 3429,
+      "goals": 4,
+      "assists": null,
+      "penalty_goals": 0
+    },
+    {
+      "player_place": 15,
+      "player_name": "A. Gordon",
+      "player_key": 2240532787,
+      "team_name": "Newcastle United",
+      "team_key": 3100,
+      "goals": 4,
+      "assists": null,
+      "penalty_goals": 0
+    }
+  ]
+}

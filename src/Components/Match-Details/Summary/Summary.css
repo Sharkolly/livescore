@@ -1,0 +1,90 @@
+div.team_substitutions {
+  width: 80%;
+  margin-inline: auto;
+}
+
+div.match_substitution {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+p.sub_team_name {
+  font-size: 1.3rem;
+  opacity: .9;
+  margin-bottom: .6rem;
+}
+
+div.sub_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 0.9rem;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  opacity: 0.77;
+}
+
+div.sub_container p.home_sub,
+div.sub_container p.away_sub {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+div.sub_container div.sub_time {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+div.sub_container div.sub_time p {
+  padding: 1rem;
+  font-weight: bold;
+  font-size: 0.8rem;
+  font-style: italic;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+div.sub_container p {
+  margin-block: 0.7rem;
+}
+
+div.away_sub p {
+  text-align: right;
+}
+
+div.sub_container_right {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
+
+@media (max-width: 890px) and (min-width: 750px) {
+  div.team_substitutions {
+    width: 90%;
+  }
+}
+
+@media (max-width: 790px) {
+  div.team_substitutions {
+    width: 100%;
+  }
+  div.team_substitutions p {
+    font-size: 87%;
+  }
+  div.sub_container {
+    gap: .3rem;
+  }
+}
+/*# sourceMappingURL=Summary.css.map */

@@ -1,0 +1,110 @@
+div.search{
+  padding-top: 2rem;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  gap: .6em;
+  align-items: center;
+
+}
+  h1.SearchPlayer {
+    text-align: center;
+    margin:0;
+    
+  }
+  div.search-input{
+    display: flex;
+    // justify-content: space-around;
+    align-items: center;
+    gap: .5rem;
+   
+    label{ 
+      font-size: 1.1rem;
+      font-weight: bold;
+    }
+    input{
+      width: 100%;
+
+      outline: none;
+      border: none;
+      border-radius: .3rem;
+      opacity: .7;
+      padding: .5rem .6rem;
+      background: #000;
+      color: white;
+      border-inline: 2px solid white;
+      border-block: 2px solid white;
+    }
+  }
+  
+  div.player-container {
+    z-index: -99;
+    display: flex;
+    justify-content: space-around;
+    // gap: 4rem;
+    padding-block: 2rem;
+    // padding-inline: 6rem;
+    border-bottom: 2px solid;
+    font-size: 135%;
+    // gap: 8rem;
+    opacity: 0.88;
+    
+  }
+  
+  p{
+    font-size: .95rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: .3rem;
+    // text
+  }
+  div.name-image {
+    width: 37%;
+  
+    h3,
+    p {
+      display: flex;
+      justify-content: space-between;
+    }
+  
+    img {
+      // height: auto;
+      width: 100%;
+      border-radius: 10%;
+      margin-bottom: .5rem;
+    }
+
+
+  }
+  
+  div.country-stats,
+  div.team-stats {
+    // text-align: justify;
+    p {
+      padding-top: 1rem;
+    }
+  }
+  
+  @media (max-width: 801px) {
+    div.search-input{
+      width: 65%;
+    }
+
+    h1.SearchPlayer {
+      font-size: 1.5em;
+      // display: none;
+      
+    }
+    div.player-container {
+      padding-inline: 2rem;
+      flex-direction: column;
+      gap: 2rem;
+    }
+    div.name-image {
+      width: 100%;
+
+    div.stats-container{
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+}

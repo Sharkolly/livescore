@@ -1,0 +1,3818 @@
+[
+  {
+    "matchID": 66599,
+    "matchDateTime": "2023-08-11T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-11T16:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 119,
+      "teamName": "SV Sandhausen",
+      "shortName": "Sandhausen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/SV_Sandhausen.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 55,
+      "teamName": "Hannover 96",
+      "shortName": "Hannover",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-01T14:42:29.427",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103329,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103335,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 7,
+        "pointsTeam2": 5,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103330,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 3,
+        "pointsTeam2": 3,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      },
+      {
+        "resultID": 103358,
+        "resultName": "nach Verlängerung",
+        "pointsTeam1": 3,
+        "pointsTeam2": 3,
+        "resultOrderID": 4,
+        "resultTypeID": 4,
+        "resultDescription": "Ergebnis nach Verlängerung (ohne Elfmeterschießen)"
+      },
+      {
+        "resultID": 103361,
+        "resultName": "nach Elfmeterschießen",
+        "pointsTeam1": 7,
+        "pointsTeam2": 5,
+        "resultOrderID": 5,
+        "resultTypeID": 5,
+        "resultDescription": "Ergebnis nach Elfmeterschießen"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102358,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 45,
+        "goalGetterID": 18310,
+        "goalGetterName": "R. Hennings",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      },
+      {
+        "goalID": 102357,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 43,
+        "goalGetterID": 18515,
+        "goalGetterName": "M. Halstenberg",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102422,
+        "scoreTeam1": 5,
+        "scoreTeam2": 5,
+        "matchMinute": null,
+        "goalGetterID": 18515,
+        "goalGetterName": "M. Halstenberg",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102421,
+        "scoreTeam1": 5,
+        "scoreTeam2": 4,
+        "matchMinute": null,
+        "goalGetterID": 18595,
+        "goalGetterName": "A. Mühling",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102368,
+        "scoreTeam1": 3,
+        "scoreTeam2": 3,
+        "matchMinute": 86,
+        "goalGetterID": 18967,
+        "goalGetterName": "T. Knipping",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102367,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 82,
+        "goalGetterID": 19241,
+        "goalGetterName": "C. Teuchert",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102417,
+        "scoreTeam1": 4,
+        "scoreTeam2": 3,
+        "matchMinute": null,
+        "goalGetterID": 19324,
+        "goalGetterName": "D. Diekmeier",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102366,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 77,
+        "goalGetterID": 19595,
+        "goalGetterName": "B. Arrey-Mbi",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102356,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 27,
+        "goalGetterID": 19852,
+        "goalGetterName": "L. Schaub",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102420,
+        "scoreTeam1": 4,
+        "scoreTeam2": 4,
+        "matchMinute": null,
+        "goalGetterID": 20123,
+        "goalGetterName": "Tresoldi",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102424,
+        "scoreTeam1": 7,
+        "scoreTeam2": 5,
+        "matchMinute": null,
+        "goalGetterID": 20192,
+        "goalGetterName": "A. El-Zein",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102423,
+        "scoreTeam1": 6,
+        "scoreTeam2": 5,
+        "matchMinute": null,
+        "goalGetterID": 20149,
+        "goalGetterName": "T. Maciejewski",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66622,
+    "matchDateTime": "2023-08-11T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-11T16:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 417,
+      "teamName": "1. FC Saarbrücken",
+      "shortName": "Saarbrücken",
+      "teamIconUrl": "http://upload.wikimedia.org/wikipedia/de/thumb/f/ff/1._FC_Saarbr%C3%BCcken.svg/150px-1._FC_Saarbr%C3%BCcken.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 105,
+      "teamName": "Karlsruher SC",
+      "shortName": "Karlsruhe",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karlsruher_SC_Logo_2.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-12T19:11:24.63",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103331,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103336,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103332,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102369,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 91,
+        "goalGetterID": 20141,
+        "goalGetterName": "Kai Brünker",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      },
+      {
+        "goalID": 102359,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 48,
+        "goalGetterID": 20146,
+        "goalGetterName": "T. Civeja",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102365,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 65,
+        "goalGetterID": 18324,
+        "goalGetterName": "L. Stindl",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66625,
+    "matchDateTime": "2023-08-11T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-11T16:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 5817,
+      "teamName": "TuS Bersenbrück",
+      "shortName": "TuS Bersenbrück",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bersenbrück_TuS.gif",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-12T18:52:17.02",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103333,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103337,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 7,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103334,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 0,
+        "pointsTeam2": 7,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102370,
+        "scoreTeam1": 0,
+        "scoreTeam2": 6,
+        "matchMinute": 77,
+        "goalGetterID": 18333,
+        "goalGetterName": "R. Hack",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102360,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 22,
+        "goalGetterID": 20147,
+        "goalGetterName": "F. Honorat",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102364,
+        "scoreTeam1": 0,
+        "scoreTeam2": 5,
+        "matchMinute": 56,
+        "goalGetterID": 20147,
+        "goalGetterName": "F. Honorat",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102362,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 32,
+        "goalGetterID": 20148,
+        "goalGetterName": "T. Cvangara",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102363,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 35,
+        "goalGetterID": 20148,
+        "goalGetterName": "T. Cvangara",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102371,
+        "scoreTeam1": 0,
+        "scoreTeam2": 7,
+        "matchMinute": 89,
+        "goalGetterID": 20150,
+        "goalGetterName": "G. Ranos",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102361,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 27,
+        "goalGetterID": 20038,
+        "goalGetterName": "N. Ngoumou",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66627,
+    "matchDateTime": "2023-08-11T20:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-11T18:45:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 74,
+      "teamName": "Eintracht Braunschweig",
+      "shortName": "Braunschweig",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/4/45/Logo_Eintracht_Braunschweig.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-12T18:52:21.697",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103338,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103340,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103339,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102372,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 19498,
+        "goalGetterName": "A. Ujah",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "12"
+      },
+      {
+        "goalID": 102374,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 42,
+        "goalGetterID": 18367,
+        "goalGetterName": "P. Seguin",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102375,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 94,
+        "goalGetterID": 18384,
+        "goalGetterName": "D. Latza",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102373,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 19,
+        "goalGetterID": 18435,
+        "goalGetterName": "K. Karaman",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66611,
+    "matchDateTime": "2023-08-12T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-12T11:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 5813,
+      "teamName": "TSG Balingen",
+      "shortName": "TSG Balingen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/TSG_Balingen_Fußball_Logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-12T18:52:27.063",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103351,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103354,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 4,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103352,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 0,
+        "pointsTeam2": 4,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102404,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 34,
+        "goalGetterID": 17850,
+        "goalGetterName": "Silas Wamangituka",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102411,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 55,
+        "goalGetterID": 18630,
+        "goalGetterName": "W. Endo",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102405,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 43,
+        "goalGetterID": 19545,
+        "goalGetterName": "S. Guirassy",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102403,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 25,
+        "goalGetterID": 20034,
+        "goalGetterName": "E. Millot",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66621,
+    "matchDateTime": "2023-08-12T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-12T11:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 69,
+      "teamName": "FC Carl Zeiss Jena",
+      "shortName": "Jena",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_FC_Carl_Zeiss_Jena.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-12T18:52:31.1",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103349,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103353,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 5,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103350,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 0,
+        "pointsTeam2": 5,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102402,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 6,
+        "goalGetterID": 20154,
+        "goalGetterName": "P. Dardai",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102407,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 47,
+        "goalGetterID": 20156,
+        "goalGetterName": "H. Tabakovic",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102410,
+        "scoreTeam1": 0,
+        "scoreTeam2": 5,
+        "matchMinute": 59,
+        "goalGetterID": 20157,
+        "goalGetterName": "F. Uremovic",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102408,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 49,
+        "goalGetterID": 18454,
+        "goalGetterName": "M. Richter",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102409,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 52,
+        "goalGetterID": 18454,
+        "goalGetterName": "M. Richter",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66601,
+    "matchDateTime": "2023-08-12T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-12T13:30:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 5024,
+      "teamName": "SV Atlas Delmenhorst",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Atlas-DEL.jpg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 98,
+      "teamName": "FC St. Pauli",
+      "shortName": "St. Pauli",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/b/b3/Fc_st_pauli_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-12T18:56:38.81",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103355,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103357,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 5,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103356,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 0,
+        "pointsTeam2": 5,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102413,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 59,
+        "goalGetterID": 20190,
+        "goalGetterName": "D. Schobert",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102416,
+        "scoreTeam1": 0,
+        "scoreTeam2": 5,
+        "matchMinute": 88,
+        "goalGetterID": 20016,
+        "goalGetterName": "O. Afolayan",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102412,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 24,
+        "goalGetterID": 19425,
+        "goalGetterName": "E. Smith",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102415,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 71,
+        "goalGetterID": 19194,
+        "goalGetterName": "M. Hartel",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102414,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 68,
+        "goalGetterID": 20050,
+        "goalGetterName": "E. Saad",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66609,
+    "matchDateTime": "2023-08-12T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-12T13:30:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 206,
+      "teamName": "FC Oberneuland 1948",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/FC_Oberneuland.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 79,
+      "teamName": "1. FC Nürnberg",
+      "shortName": "Nürnberg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-14T21:04:11.98",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103362,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 6,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103366,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 9,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103363,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 1,
+        "pointsTeam2": 9,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102425,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 10,
+        "goalGetterID": 20128,
+        "goalGetterName": "C. Uzun",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102426,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 14,
+        "goalGetterID": 20128,
+        "goalGetterName": "C. Uzun",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102431,
+        "scoreTeam1": 0,
+        "scoreTeam2": 7,
+        "matchMinute": 67,
+        "goalGetterID": 20128,
+        "goalGetterName": "C. Uzun",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102427,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 15,
+        "goalGetterID": 20193,
+        "goalGetterName": "D. Hayashi",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102433,
+        "scoreTeam1": 1,
+        "scoreTeam2": 8,
+        "matchMinute": 89,
+        "goalGetterID": 20194,
+        "goalGetterName": "B. Lambers",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 103021,
+        "scoreTeam1": 1,
+        "scoreTeam2": 9,
+        "matchMinute": 90,
+        "goalGetterID": 18937,
+        "goalGetterName": "C. Daferner",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102429,
+        "scoreTeam1": 0,
+        "scoreTeam2": 5,
+        "matchMinute": 25,
+        "goalGetterID": 18994,
+        "goalGetterName": "T. Duman",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102430,
+        "scoreTeam1": 0,
+        "scoreTeam2": 6,
+        "matchMinute": 29,
+        "goalGetterID": 18994,
+        "goalGetterName": "T. Duman",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102432,
+        "scoreTeam1": 0,
+        "scoreTeam2": 8,
+        "matchMinute": 71,
+        "goalGetterID": 18313,
+        "goalGetterName": "B. Goller",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102428,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 19,
+        "goalGetterID": 18396,
+        "goalGetterName": "A. Gürleyen",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66612,
+    "matchDateTime": "2023-08-12T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-12T13:30:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 4555,
+      "teamName": "TSV SCHOTT Mainz",
+      "shortName": "SCHOTT",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_Schott_Mainz.png/120px-TSV_Schott_Mainz.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "BVB",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-12T20:36:42.39",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103369,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103371,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 6,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103370,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 1,
+        "pointsTeam2": 6,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102437,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 24,
+        "goalGetterID": 18492,
+        "goalGetterName": "J. Brandt",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102442,
+        "scoreTeam1": 1,
+        "scoreTeam2": 6,
+        "matchMinute": 85,
+        "goalGetterID": 18592,
+        "goalGetterName": "Y. Moukoko",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102440,
+        "scoreTeam1": 1,
+        "scoreTeam2": 4,
+        "matchMinute": 57,
+        "goalGetterID": 18567,
+        "goalGetterName": "M. Sabitzer",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102438,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 34,
+        "goalGetterID": 20195,
+        "goalGetterName": "N. Gans",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102436,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 22,
+        "goalGetterID": 19771,
+        "goalGetterName": "S. Haller",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102439,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 35,
+        "goalGetterID": 19771,
+        "goalGetterName": "S. Haller",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102441,
+        "scoreTeam1": 1,
+        "scoreTeam2": 5,
+        "matchMinute": 79,
+        "goalGetterID": 19156,
+        "goalGetterName": "D. Malen",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66618,
+    "matchDateTime": "2023-08-12T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-12T13:30:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 2199,
+      "teamName": "FC Viktoria Köln",
+      "shortName": "Viktoria Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FC_Viktoria_K%C3%B6ln_1904_Logo.svg/1200px-FC_Viktoria_K%C3%B6ln_1904_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 134,
+      "teamName": "Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-12T20:41:16.843",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103372,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103374,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103373,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 3,
+        "pointsTeam2": 2,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102444,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 72,
+        "goalGetterID": 19540,
+        "goalGetterName": "David Philipp",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102446,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 79,
+        "goalGetterID": 19540,
+        "goalGetterName": "David Philipp",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102447,
+        "scoreTeam1": 3,
+        "scoreTeam2": 2,
+        "matchMinute": 94,
+        "goalGetterID": 20196,
+        "goalGetterName": "D. Bogicevic",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102445,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 77,
+        "goalGetterID": 18661,
+        "goalGetterName": "N. Füllkrug",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102443,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 43,
+        "goalGetterID": 18422,
+        "goalGetterName": "M. Ducksch",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66620,
+    "matchDateTime": "2023-08-12T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-12T13:30:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 5661,
+      "teamName": "Teutonia Ottensen",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/FC_Teutonia_05_Ottensen_Logo.svg/227px-FC_Teutonia_05_Ottensen_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 6,
+      "teamName": "Bayer Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1200px-Bayer_Leverkusen_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-12T20:46:39.087",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103375,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103377,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 8,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103376,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 0,
+        "pointsTeam2": 8,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102448,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 16,
+        "goalGetterID": 18414,
+        "goalGetterName": "E. Tapsoba",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102454,
+        "scoreTeam1": 0,
+        "scoreTeam2": 7,
+        "matchMinute": 81,
+        "goalGetterID": 18716,
+        "goalGetterName": "J. Hofmann",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102450,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 46,
+        "goalGetterID": 18494,
+        "goalGetterName": "F. Wirtz",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102449,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 42,
+        "goalGetterID": 20197,
+        "goalGetterName": "V. Boniface",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102452,
+        "scoreTeam1": 0,
+        "scoreTeam2": 5,
+        "matchMinute": 67,
+        "goalGetterID": 19129,
+        "goalGetterName": "J. Frimpong",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102451,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 59,
+        "goalGetterID": 19155,
+        "goalGetterName": "A. Adli",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102453,
+        "scoreTeam1": 0,
+        "scoreTeam2": 6,
+        "matchMinute": 74,
+        "goalGetterID": 19427,
+        "goalGetterName": "A. Hlozek",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102455,
+        "scoreTeam1": 0,
+        "scoreTeam2": 8,
+        "matchMinute": 90,
+        "goalGetterID": 19427,
+        "goalGetterName": "A. Hlozek",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66623,
+    "matchDateTime": "2023-08-12T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-12T13:30:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 5818,
+      "teamName": "FC Gütersloh",
+      "shortName": "FC Gütersloh",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/0/0c/FC_Gütersloh_2000_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 104,
+      "teamName": "Holstein Kiel",
+      "shortName": "Kiel",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/300px-Holstein_Kiel_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-06T12:21:21.247",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103378,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103380,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103379,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102456,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 72,
+        "goalGetterID": 19809,
+        "goalGetterName": "H. Fridjonsson",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102457,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 93,
+        "goalGetterID": 19809,
+        "goalGetterName": "H. Fridjonsson",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66598,
+    "matchDateTime": "2023-08-12T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-12T16:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 208,
+      "teamName": "Hallescher FC",
+      "shortName": "Halle",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hallescher_FC.svg/150px-Hallescher_FC.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 115,
+      "teamName": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "teamIconUrl": "https://i.imgur.com/pwuVbKr.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-13T11:00:35.09",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103387,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103388,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102465,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 18,
+        "goalGetterID": 19611,
+        "goalGetterName": "A. Sieb",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66615,
+    "matchDateTime": "2023-08-12T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-12T16:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 198,
+      "teamName": "SV Elversberg 07",
+      "shortName": "Elversberg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/SV_Elversberg_Logo_2015.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-13T11:01:56.2",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103389,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103390,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102466,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 73,
+        "goalGetterID": 19846,
+        "goalGetterName": "L. Ajorque",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66626,
+    "matchDateTime": "2023-08-12T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-12T16:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 83,
+      "teamName": "Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_mit_Rand.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 129,
+      "teamName": "VfL Bochum",
+      "shortName": "Bochum",
+      "teamIconUrl": "https://i.imgur.com/5jy3Gfr.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-13T11:09:43.7",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103391,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103392,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 6,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103393,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      },
+      {
+        "resultID": 103394,
+        "resultName": "nach Verlängerung",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 4,
+        "resultTypeID": 4,
+        "resultDescription": "Ergebnis nach Verlängerung (ohne Elfmeterschießen)"
+      },
+      {
+        "resultID": 103395,
+        "resultName": "nach Elfmeterschießen",
+        "pointsTeam1": 6,
+        "pointsTeam2": 3,
+        "resultOrderID": 5,
+        "resultTypeID": 5,
+        "resultDescription": "Ergebnis nach Elfmeterschießen"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102467,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 25,
+        "goalGetterID": 19312,
+        "goalGetterName": "N. Shipnoski",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102475,
+        "scoreTeam1": 6,
+        "scoreTeam2": 3,
+        "matchMinute": null,
+        "goalGetterID": 20198,
+        "goalGetterName": "K. Mizuta",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102474,
+        "scoreTeam1": 5,
+        "scoreTeam2": 3,
+        "matchMinute": null,
+        "goalGetterID": 19504,
+        "goalGetterName": "E. Masovic",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102468,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 29,
+        "goalGetterID": 19177,
+        "goalGetterName": "Merveille Biankadi",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102469,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 47,
+        "goalGetterID": 19226,
+        "goalGetterName": "T. Asano",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      },
+      {
+        "goalID": 102470,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 91,
+        "goalGetterID": 18315,
+        "goalGetterName": "S. Zoller",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      },
+      {
+        "goalID": 102472,
+        "scoreTeam1": 4,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 18080,
+        "goalGetterName": "Gohlke",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102473,
+        "scoreTeam1": 5,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 18295,
+        "goalGetterName": "Boujellab",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102471,
+        "scoreTeam1": 3,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 18326,
+        "goalGetterName": "F. Klos",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66606,
+    "matchDateTime": "2023-08-13T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-13T11:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 5816,
+      "teamName": "Rostocker FC",
+      "shortName": "Rostocker FC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Logo_RFC.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 199,
+      "teamName": "1. FC Heidenheim 1846",
+      "shortName": "Heidenheim",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1._FC_Heidenheim_1846.svg/830px-1._FC_Heidenheim_1846.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-13T17:52:48.23",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103396,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 5,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103397,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 8,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102488,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 18,
+        "goalGetterID": 7100,
+        "goalGetterName": "Maloney",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102489,
+        "scoreTeam1": 0,
+        "scoreTeam2": 5,
+        "matchMinute": 38,
+        "goalGetterID": 18446,
+        "goalGetterName": "M. Pieringer",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102498,
+        "scoreTeam1": 0,
+        "scoreTeam2": 7,
+        "matchMinute": 72,
+        "goalGetterID": 18446,
+        "goalGetterName": "M. Pieringer",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102486,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 12,
+        "goalGetterID": 18551,
+        "goalGetterName": "T. Kleindienst",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102487,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 15,
+        "goalGetterID": 18551,
+        "goalGetterName": "T. Kleindienst",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102499,
+        "scoreTeam1": 0,
+        "scoreTeam2": 8,
+        "matchMinute": 87,
+        "goalGetterID": 18709,
+        "goalGetterName": "S. Schimmer",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102476,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 9,
+        "goalGetterID": 19429,
+        "goalGetterName": "A. Beck",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102490,
+        "scoreTeam1": 0,
+        "scoreTeam2": 6,
+        "matchMinute": 53,
+        "goalGetterID": 20199,
+        "goalGetterName": "E. Dinkci",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66613,
+    "matchDateTime": "2023-08-13T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-13T11:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 109,
+      "teamName": "Rot-Weiss Essen",
+      "shortName": "",
+      "teamIconUrl": "https://www.openligadb.de/images/teamicons/Rot_Weiss_Essen.gif",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T10:28:56.917",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103398,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103399,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 4,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103404,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 3,
+        "pointsTeam2": 3,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      },
+      {
+        "resultID": 103405,
+        "resultName": "nach Verlängerung",
+        "pointsTeam1": 3,
+        "pointsTeam2": 4,
+        "resultOrderID": 4,
+        "resultTypeID": 4,
+        "resultDescription": "Ergebnis nach Verlängerung (ohne Elfmeterschießen)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102500,
+        "scoreTeam1": 3,
+        "scoreTeam2": 3,
+        "matchMinute": 83,
+        "goalGetterID": 20202,
+        "goalGetterName": "L. Brumme",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102493,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 66,
+        "goalGetterID": 18601,
+        "goalGetterName": "R. Glatzel",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102492,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 56,
+        "goalGetterID": 18628,
+        "goalGetterName": "M. Doumbouya",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102484,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 37,
+        "goalGetterID": 18342,
+        "goalGetterName": "B. Jatta",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102491,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 54,
+        "goalGetterID": 18342,
+        "goalGetterName": "B. Jatta",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102501,
+        "scoreTeam1": 3,
+        "scoreTeam2": 4,
+        "matchMinute": 117,
+        "goalGetterID": 18356,
+        "goalGetterName": "L. Benes",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102485,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 42,
+        "goalGetterID": 17358,
+        "goalGetterName": "Müsel",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66602,
+    "matchDateTime": "2023-08-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-13T13:30:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 2410,
+      "teamName": "FV Illertissen",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/1/13/FV_Illertissen.svg/240px-FV_Illertissen.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 185,
+      "teamName": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/150px-Fortuna_D%C3%BCsseldorf.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-13T17:53:13.36",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103402,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103403,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102495,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 27,
+        "goalGetterID": 17747,
+        "goalGetterName": "Vincent Vermeij",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102494,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 3,
+        "goalGetterID": 20200,
+        "goalGetterName": "K. Frisorger",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102496,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 41,
+        "goalGetterID": 20200,
+        "goalGetterName": "K. Frisorger",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102497,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 91,
+        "goalGetterID": 20201,
+        "goalGetterName": "C. Tzolis",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66603,
+    "matchDateTime": "2023-08-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-13T13:30:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 5815,
+      "teamName": "TuS Makkabi Berlin",
+      "shortName": "Makkabi Berlin",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/TuS_Makkabi_Berlin_Logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://i.imgur.com/ucqKV4B.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-13T17:56:51.69",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103406,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103407,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 6,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102504,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 54,
+        "goalGetterID": 19240,
+        "goalGetterName": "T. Tomas",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102507,
+        "scoreTeam1": 0,
+        "scoreTeam2": 6,
+        "matchMinute": 89,
+        "goalGetterID": 19240,
+        "goalGetterName": "T. Tomas",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102503,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 9,
+        "goalGetterID": 19257,
+        "goalGetterName": "J. Wind",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102505,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 57,
+        "goalGetterID": 18377,
+        "goalGetterName": "Y. Gerhardt",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102506,
+        "scoreTeam1": 0,
+        "scoreTeam2": 5,
+        "matchMinute": 79,
+        "goalGetterID": 18516,
+        "goalGetterName": "R. Baku",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102502,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 8,
+        "goalGetterID": 19021,
+        "goalGetterName": "L. Nmecha",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66604,
+    "matchDateTime": "2023-08-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-13T13:30:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 5819,
+      "teamName": "FC Rot-Weiß Koblenz",
+      "shortName": "Rot-Weiß Koblenz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/FC_Rot-Weiß_Koblenz_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 76,
+      "teamName": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-13T17:59:27.757",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103408,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103409,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 5,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102511,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 66,
+        "goalGetterID": 19452,
+        "goalGetterName": "K. Redondo",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102510,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 43,
+        "goalGetterID": 19486,
+        "goalGetterName": "B. Tomiak",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102508,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 19,
+        "goalGetterID": 19412,
+        "goalGetterName": "T. Boyd",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102512,
+        "scoreTeam1": 0,
+        "scoreTeam2": 5,
+        "matchMinute": 90,
+        "goalGetterID": 19412,
+        "goalGetterName": "T. Boyd",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102509,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 35,
+        "goalGetterID": 19765,
+        "goalGetterName": "J. Niehues",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66605,
+    "matchDateTime": "2023-08-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-13T13:30:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 116,
+      "teamName": "SpVgg Unterhaching",
+      "shortName": "Unterhaching",
+      "teamIconUrl": "https://www.openligadb.de/images/teamicons/SpVgg_Unterhaching.gif",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-13T18:01:25.58",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103410,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103411,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102514,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 94,
+        "goalGetterID": 20203,
+        "goalGetterName": "B. Mashigo",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      },
+      {
+        "goalID": 102513,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 29,
+        "goalGetterID": 9273,
+        "goalGetterName": "Mathias Fetsch",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66616,
+    "matchDateTime": "2023-08-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-13T13:30:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 1584,
+      "teamName": "1. FC Lok Leipzig",
+      "shortName": "Lok Leipzig",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/1._FC_Lok_Logo.gif/240px-1._FC_Lok_Logo.gif",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-13T18:20:31.493",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103412,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103413,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 7,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102516,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 58,
+        "goalGetterID": 14306,
+        "goalGetterName": "Mario Götze",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102519,
+        "scoreTeam1": 0,
+        "scoreTeam2": 5,
+        "matchMinute": 89,
+        "goalGetterID": 18763,
+        "goalGetterName": "J. Ngankam",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102520,
+        "scoreTeam1": 0,
+        "scoreTeam2": 6,
+        "matchMinute": 99,
+        "goalGetterID": 18763,
+        "goalGetterName": "J. Ngankam",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      },
+      {
+        "goalID": 102517,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 66,
+        "goalGetterID": 18444,
+        "goalGetterName": "O. Marmoush",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102518,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 86,
+        "goalGetterID": 19598,
+        "goalGetterName": "D. Ebimbe",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102521,
+        "scoreTeam1": 0,
+        "scoreTeam2": 7,
+        "matchMinute": 104,
+        "goalGetterID": 19598,
+        "goalGetterName": "D. Ebimbe",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      },
+      {
+        "goalID": 102515,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 37,
+        "goalGetterID": 19488,
+        "goalGetterName": "R. Kolo Muani",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66624,
+    "matchDateTime": "2023-08-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-13T13:30:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 5659,
+      "teamName": "SV Oberachern",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/SV_Oberachern_Logo.svg/171px-SV_Oberachern_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-13T18:22:21.747",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103414,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103415,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102522,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 60,
+        "goalGetterID": 20204,
+        "goalGetterName": "C. Günther",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102523,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 78,
+        "goalGetterID": 16923,
+        "goalGetterName": "R. Sallai",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66608,
+    "matchDateTime": "2023-08-13T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-13T16:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 93,
+      "teamName": "FC Energie Cottbus",
+      "shortName": "Cottbus",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Logo_Energie_Cottbus.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 31,
+      "teamName": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-13T21:00:54.193",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103416,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103417,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 7,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102524,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 3,
+        "goalGetterID": 16962,
+        "goalGetterName": "Pelivan",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102537,
+        "scoreTeam1": 0,
+        "scoreTeam2": 6,
+        "matchMinute": 83,
+        "goalGetterID": 16403,
+        "goalGetterName": "Klaas",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102538,
+        "scoreTeam1": 0,
+        "scoreTeam2": 7,
+        "matchMinute": 85,
+        "goalGetterID": 781,
+        "goalGetterName": "Hansen",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102536,
+        "scoreTeam1": 0,
+        "scoreTeam2": 5,
+        "matchMinute": 64,
+        "goalGetterID": 18527,
+        "goalGetterName": "F. Muslija",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102526,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 20,
+        "goalGetterID": 18963,
+        "goalGetterName": "F. Bilbija",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102531,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 51,
+        "goalGetterID": 18963,
+        "goalGetterName": "F. Bilbija",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102525,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 11,
+        "goalGetterID": 19293,
+        "goalGetterName": "V. Musliu",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66617,
+    "matchDateTime": "2023-08-13T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-13T16:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 2728,
+      "teamName": "FC Astoria Walldorf",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/37/FC_Astoria_Walldorf.svg/150px-FC_Astoria_Walldorf.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 80,
+      "teamName": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-13T21:00:52.407",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103418,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103419,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 4,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102539,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 80,
+        "goalGetterID": 19204,
+        "goalGetterName": "J. Haberer",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102527,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 29,
+        "goalGetterID": 18545,
+        "goalGetterName": "R. Knoche",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102529,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 38,
+        "goalGetterID": 18409,
+        "goalGetterName": "S. Becker",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102530,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 41,
+        "goalGetterID": 20206,
+        "goalGetterName": "D. Leite",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66619,
+    "matchDateTime": "2023-08-13T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-13T16:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 172,
+      "teamName": "FSV Frankfurt",
+      "shortName": "FSV Frankfurt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/FSV_Frankfurt_1899.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 102,
+      "teamName": "FC Hansa Rostock",
+      "shortName": "Rostock",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/FC_Hansa_Logo_seit_2009.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-30T19:34:47.25",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103420,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103421,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 4,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103450,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      },
+      {
+        "resultID": 103426,
+        "resultName": "nach Verlängerung",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 4,
+        "resultTypeID": 4,
+        "resultDescription": "Ergebnis nach Verlängerung (ohne Elfmeterschießen)"
+      },
+      {
+        "resultID": 103427,
+        "resultName": "nach Elfmeterschießen",
+        "pointsTeam1": 1,
+        "pointsTeam2": 4,
+        "resultOrderID": 5,
+        "resultTypeID": 5,
+        "resultDescription": "Ergebnis nach Elfmeterschießen"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102540,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 84,
+        "goalGetterID": 20207,
+        "goalGetterName": "S. Güler",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102543,
+        "scoreTeam1": 1,
+        "scoreTeam2": 4,
+        "matchMinute": null,
+        "goalGetterID": 20207,
+        "goalGetterName": "S. Güler",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102542,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": null,
+        "goalGetterID": 18440,
+        "goalGetterName": "A. Rossipal",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102541,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 18773,
+        "goalGetterName": "J. Bachmann",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102528,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 29,
+        "goalGetterID": 20205,
+        "goalGetterName": "M. McLemor",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66597,
+    "matchDateTime": "2023-08-14T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-14T16:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 204,
+      "teamName": "FC 08 Homburg",
+      "shortName": "",
+      "teamIconUrl": "http://upload.wikimedia.org/wikipedia/de/thumb/1/11/FC_08_Homburg_Logo.svg/150px-FC_08_Homburg_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 118,
+      "teamName": "SV Darmstadt 98",
+      "shortName": "Darmstadt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-14T19:54:21.047",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103434,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103435,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102559,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 81,
+        "goalGetterID": 19870,
+        "goalGetterName": "Phil Harres",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102549,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 10,
+        "goalGetterID": 20215,
+        "goalGetterName": "M. Mendler",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102553,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 49,
+        "goalGetterID": 20216,
+        "goalGetterName": "M. Heilig",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66607,
+    "matchDateTime": "2023-08-14T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-14T16:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 181,
+      "teamName": "Jahn Regensburg",
+      "shortName": "Regensburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jahn_Regensburg_logo2014.svg/204px-Jahn_Regensburg_logo2014.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 78,
+      "teamName": "1. FC Magdeburg",
+      "shortName": "Magdeburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1._FC_Magdeburg.svg/210px-1._FC_Magdeburg.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-14T20:00:25.12",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103436,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103437,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102554,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 59,
+        "goalGetterID": 20217,
+        "goalGetterName": "J. Hugonet",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102550,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 16,
+        "goalGetterID": 19581,
+        "goalGetterName": "L. Schuler",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102555,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 63,
+        "goalGetterID": 18730,
+        "goalGetterName": "D. Kother",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66610,
+    "matchDateTime": "2023-08-14T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-14T16:00:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 532,
+      "teamName": "VfB Lübeck",
+      "shortName": "",
+      "teamIconUrl": "http://upload.wikimedia.org/wikipedia/de/8/86/VfB_L%C3%BCbeck.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 175,
+      "teamName": "TSG 1899 Hoffenheim",
+      "shortName": "Hoffenheim",
+      "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-14T19:54:29.453",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103438,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103439,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 4,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102557,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 70,
+        "goalGetterID": 18968,
+        "goalGetterName": "M. Bülter",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102558,
+        "scoreTeam1": 1,
+        "scoreTeam2": 4,
+        "matchMinute": 76,
+        "goalGetterID": 18451,
+        "goalGetterName": "J. Justvan",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102552,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 42,
+        "goalGetterID": 18327,
+        "goalGetterName": "A. Kramaric",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102556,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 60,
+        "goalGetterID": 18327,
+        "goalGetterName": "A. Kramaric",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102551,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 34,
+        "goalGetterID": 19428,
+        "goalGetterName": "T. Gözüsirin",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66600,
+    "matchDateTime": "2023-08-14T20:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-08-14T18:45:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 36,
+      "teamName": "VfL Osnabrück",
+      "shortName": "Osnabrück",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Vfl_Osnabrueck_2017.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-08-15T09:54:30.597",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103440,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 103441,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      },
+      {
+        "resultID": 103442,
+        "resultName": "nach 90 Minuten",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 3,
+        "resultTypeID": 3,
+        "resultDescription": "Ergebnis inkl. Nachspielzeit"
+      },
+      {
+        "resultID": 103443,
+        "resultName": "nach Verlängerung",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 4,
+        "resultTypeID": 4,
+        "resultDescription": "Ergebnis nach Verlängerung (ohne Elfmeterschießen)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 102562,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 93,
+        "goalGetterID": 18368,
+        "goalGetterName": "S. Adamyan",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102561,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 73,
+        "goalGetterID": 19106,
+        "goalGetterName": "C. Makridis",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102560,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 43,
+        "goalGetterID": 18571,
+        "goalGetterName": "B. Schmitz",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 102563,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 96,
+        "goalGetterID": 20219,
+        "goalGetterName": "J. Chabot",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66628,
+    "matchDateTime": "2023-09-26T20:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-09-26T18:45:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 188,
+      "teamName": "Preußen Münster",
+      "shortName": "Münster",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/7/7e/SC_Preussen_Muenster_Logo_2018.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://i.imgur.com/jJEsJrj.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-26T22:45:32.61",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 104063,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 104064,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 4,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 104294,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 45,
+        "goalGetterID": 20512,
+        "goalGetterName": "F. Krätzig",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      },
+      {
+        "goalID": 104287,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 9,
+        "goalGetterID": 18631,
+        "goalGetterName": "E. Choupo-Moting",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 104293,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 40,
+        "goalGetterID": 19299,
+        "goalGetterName": "K. Laimer",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 104298,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 86,
+        "goalGetterID": 19490,
+        "goalGetterName": "M. Tel",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 66629,
+    "matchDateTime": "2023-09-27T20:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4635,
+    "leagueName": "DFB-Pokal 2023/2024",
+    "leagueSeason": 2023,
+    "leagueShortcut": "dfb",
+    "matchDateTimeUTC": "2023-09-27T18:45:00Z",
+    "group": { "groupName": "1. Runde", "groupOrderID": 1, "groupID": 42053 },
+    "team1": {
+      "teamId": 174,
+      "teamName": "SV Wehen Wiesbaden",
+      "shortName": "Wiesbaden",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/3d/Logo_SV_Wehen_Wiesbaden.svg/1024px-Logo_SV_Wehen_Wiesbaden.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1635,
+      "teamName": "RB Leipzig",
+      "shortName": "Leipzig",
+      "teamIconUrl": "https://i.imgur.com/Rpwsjz1.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-27T22:39:21.55",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 104129,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der 1. Halbzeit"
+      },
+      {
+        "resultID": 104130,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende des Spiels"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 104357,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 7,
+        "goalGetterID": 18498,
+        "goalGetterName": "E. Forsberg",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 104359,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 41,
+        "goalGetterID": 20261,
+        "goalGetterName": "I. Prtajin",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 104362,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 73,
+        "goalGetterID": 20261,
+        "goalGetterName": "I. Prtajin",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 104358,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 18,
+        "goalGetterID": 20288,
+        "goalGetterName": "B. Sesko",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 104361,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 70,
+        "goalGetterID": 20288,
+        "goalGetterName": "B. Sesko",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  }
+]

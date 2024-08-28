@@ -1,0 +1,3362 @@
+[
+  {
+    "matchID": 68006,
+    "matchDateTime": "2023-09-21T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T16:45:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 4825,
+      "teamName": "Union St. Gilloise",
+      "shortName": "Union St. Gilloise",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4788,
+      "teamName": "FC Toulouse",
+      "shortName": "FCT",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/0/0a/FC_Toulouse_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:45:24.19",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68007,
+    "matchDateTime": "2023-09-21T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T16:45:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 251,
+      "teamName": "LASK Linz",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 370,
+      "teamName": "Liverpool FC",
+      "shortName": "Liverpool",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/7889.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:45:35.567",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68008,
+    "matchDateTime": "2023-09-21T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T16:45:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 4639,
+      "teamName": "Stade Rennes",
+      "shortName": "Rennes",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/b/b6/Stade_Rennais_Football_Club.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 734,
+      "teamName": "Maccabi Haifa",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/18x18/59045.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:45:51.9",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68009,
+    "matchDateTime": "2023-09-21T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T16:45:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 374,
+      "teamName": "Panathinaikos FC",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/50084.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 382,
+      "teamName": "Villarreal CF",
+      "shortName": "",
+      "teamIconUrl": "http://www.uefa.com/ml/images/logos/50X50/70691.gif",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:46:09.45",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68010,
+    "matchDateTime": "2023-09-21T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T16:45:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 1676,
+      "teamName": "Servette FC",
+      "shortName": "SFC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/36/Servette_FC_Etoile.svg/240px-Servette_FC_Etoile.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4578,
+      "teamName": "Slavia Prag",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b1/SK_Slavia_Praha.svg/100px-SK_Slavia_Praha.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:46:24.33",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68011,
+    "matchDateTime": "2023-09-21T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T16:45:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 1213,
+      "teamName": "Sheriff Tiraspol",
+      "shortName": "",
+      "teamIconUrl": "https://s.hs-data.com/gfx/emblem/common/100x100/12928.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 378,
+      "teamName": "AS Rom",
+      "shortName": "AS Rom",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/5/52/AS_Roma_logo_(2013).svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:46:34.637",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68012,
+    "matchDateTime": "2023-09-21T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T16:45:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 6,
+      "teamName": "Bayer Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1200px-Bayer_Leverkusen_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 5307,
+      "teamName": "BK Häcken",
+      "shortName": "HÄCK",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:46:44.9",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68013,
+    "matchDateTime": "2023-09-21T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T16:45:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 4458,
+      "teamName": "Qarabag Agdam",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 2459,
+      "teamName": "Molde FK",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/50142.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:46:58.167",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68014,
+    "matchDateTime": "2023-09-21T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T19:00:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 551,
+      "teamName": "West Ham United FC",
+      "shortName": "West Ham",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 5860,
+      "teamName": "FK TSC",
+      "shortName": "TSC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TSC_BT_logo.png/480px-TSC_BT_logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:47:25.577",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68015,
+    "matchDateTime": "2023-09-21T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T19:00:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 436,
+      "teamName": "Olympiakos Piräus",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/9/96/Logo_Olympiakos_Pir%C3%A4us.svg/150px-Logo_Olympiakos_Pir%C3%A4us.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:47:39.753",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68016,
+    "matchDateTime": "2023-09-21T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T19:00:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 455,
+      "teamName": "Ajax Amsterdam",
+      "shortName": "Ajax",
+      "teamIconUrl": "https://i.pinimg.com/originals/f3/55/7b/f3557b94915cab139518000362d56e5f.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 2557,
+      "teamName": "Olympique Marseille",
+      "shortName": "",
+      "teamIconUrl": "http://upload.wikimedia.org/wikipedia/de/thumb/2/27/Olympique_Marseille_Logo.svg/150px-Olympique_Marseille_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:47:52.297",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68017,
+    "matchDateTime": "2023-09-21T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T19:00:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 4572,
+      "teamName": "Brighton & Hove Albion F.C.",
+      "shortName": "Brighton & Hove Albion",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1217,
+      "teamName": "AEK Athen",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AEK_Athens_FC_logo.svg/115px-AEK_Athens_FC_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:48:02.877",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68018,
+    "matchDateTime": "2023-09-21T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T19:00:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 4199,
+      "teamName": "Sparta Prag",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/fe/Sparta_Prag.svg/497px-Sparta_Prag.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 5865,
+      "teamName": "Aris FC Limassol",
+      "shortName": "Aris Limassol",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/39/Aris_Limassol.jpg/455px-Aris_Limassol.jpg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:48:14.38",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68019,
+    "matchDateTime": "2023-09-21T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T19:00:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 732,
+      "teamName": "Glasgow Rangers",
+      "shortName": "",
+      "teamIconUrl": "https://iconape.com/wp-content/png_logo_vector/glasgow-rangers-logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1804,
+      "teamName": "Real Betis",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:48:26.477",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68020,
+    "matchDateTime": "2023-09-21T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T19:00:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 1807,
+      "teamName": "Atalanta Bergamo",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 5866,
+      "teamName": "Rakow Czestochowa",
+      "shortName": "Rakow Czestochowa",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:48:36.773",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68021,
+    "matchDateTime": "2023-09-21T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-09-21T19:00:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 42794
+    },
+    "team1": {
+      "teamId": 2491,
+      "teamName": "SK Sturm Graz",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4604,
+      "teamName": "Sporting CP",
+      "shortName": "Sporting CP",
+      "teamIconUrl": "https://s.hs-data.com/gfx/emblem/common/30x30/1776.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:48:50.02",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68022,
+    "matchDateTime": "2023-10-05T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T16:45:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 551,
+      "teamName": "West Ham United FC",
+      "shortName": "West Ham",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:49:25.403",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68023,
+    "matchDateTime": "2023-10-05T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T16:45:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 5860,
+      "teamName": "FK TSC",
+      "shortName": "TSC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TSC_BT_logo.png/480px-TSC_BT_logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 436,
+      "teamName": "Olympiakos Piräus",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/9/96/Logo_Olympiakos_Pir%C3%A4us.svg/150px-Logo_Olympiakos_Pir%C3%A4us.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:49:56.243",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68024,
+    "matchDateTime": "2023-10-05T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T16:45:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 2557,
+      "teamName": "Olympique Marseille",
+      "shortName": "",
+      "teamIconUrl": "http://upload.wikimedia.org/wikipedia/de/thumb/2/27/Olympique_Marseille_Logo.svg/150px-Olympique_Marseille_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4572,
+      "teamName": "Brighton & Hove Albion F.C.",
+      "shortName": "Brighton & Hove Albion",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:50:08.193",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68025,
+    "matchDateTime": "2023-10-05T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T16:45:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 1217,
+      "teamName": "AEK Athen",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AEK_Athens_FC_logo.svg/115px-AEK_Athens_FC_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 455,
+      "teamName": "Ajax Amsterdam",
+      "shortName": "Ajax",
+      "teamIconUrl": "https://i.pinimg.com/originals/f3/55/7b/f3557b94915cab139518000362d56e5f.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:50:17.163",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68026,
+    "matchDateTime": "2023-10-05T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T16:45:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 1804,
+      "teamName": "Real Betis",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4199,
+      "teamName": "Sparta Prag",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/fe/Sparta_Prag.svg/497px-Sparta_Prag.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:50:26.77",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68027,
+    "matchDateTime": "2023-10-05T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T16:45:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 5865,
+      "teamName": "Aris FC Limassol",
+      "shortName": "Aris Limassol",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/39/Aris_Limassol.jpg/455px-Aris_Limassol.jpg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 732,
+      "teamName": "Glasgow Rangers",
+      "shortName": "",
+      "teamIconUrl": "https://iconape.com/wp-content/png_logo_vector/glasgow-rangers-logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:50:37.3",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68028,
+    "matchDateTime": "2023-10-05T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T16:45:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 4604,
+      "teamName": "Sporting CP",
+      "shortName": "Sporting CP",
+      "teamIconUrl": "https://s.hs-data.com/gfx/emblem/common/30x30/1776.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1807,
+      "teamName": "Atalanta Bergamo",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:50:48.673",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68029,
+    "matchDateTime": "2023-10-05T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T16:45:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 5866,
+      "teamName": "Rakow Czestochowa",
+      "shortName": "Rakow Czestochowa",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 2491,
+      "teamName": "SK Sturm Graz",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:50:59.29",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68030,
+    "matchDateTime": "2023-10-05T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T19:00:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 370,
+      "teamName": "Liverpool FC",
+      "shortName": "Liverpool",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/7889.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4825,
+      "teamName": "Union St. Gilloise",
+      "shortName": "Union St. Gilloise",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:51:30.36",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68031,
+    "matchDateTime": "2023-10-05T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T19:00:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 4788,
+      "teamName": "FC Toulouse",
+      "shortName": "FCT",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/0/0a/FC_Toulouse_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 251,
+      "teamName": "LASK Linz",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:51:59.973",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68032,
+    "matchDateTime": "2023-10-05T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T19:00:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 382,
+      "teamName": "Villarreal CF",
+      "shortName": "",
+      "teamIconUrl": "http://www.uefa.com/ml/images/logos/50X50/70691.gif",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4639,
+      "teamName": "Stade Rennes",
+      "shortName": "Rennes",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/b/b6/Stade_Rennais_Football_Club.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:52:14.567",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68033,
+    "matchDateTime": "2023-10-05T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T19:00:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 734,
+      "teamName": "Maccabi Haifa",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/18x18/59045.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 374,
+      "teamName": "Panathinaikos FC",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/50084.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:52:24.857",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68034,
+    "matchDateTime": "2023-10-05T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T19:00:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 378,
+      "teamName": "AS Rom",
+      "shortName": "AS Rom",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/5/52/AS_Roma_logo_(2013).svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1676,
+      "teamName": "Servette FC",
+      "shortName": "SFC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/36/Servette_FC_Etoile.svg/240px-Servette_FC_Etoile.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:52:34.88",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68035,
+    "matchDateTime": "2023-10-05T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T19:00:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 4578,
+      "teamName": "Slavia Prag",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b1/SK_Slavia_Praha.svg/100px-SK_Slavia_Praha.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1213,
+      "teamName": "Sheriff Tiraspol",
+      "shortName": "",
+      "teamIconUrl": "https://s.hs-data.com/gfx/emblem/common/100x100/12928.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:52:44.643",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68036,
+    "matchDateTime": "2023-10-05T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T19:00:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 2459,
+      "teamName": "Molde FK",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/50142.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 6,
+      "teamName": "Bayer Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1200px-Bayer_Leverkusen_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:52:53.967",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68037,
+    "matchDateTime": "2023-10-05T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-05T19:00:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 42795
+    },
+    "team1": {
+      "teamId": 5307,
+      "teamName": "BK Häcken",
+      "shortName": "HÄCK",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4458,
+      "teamName": "Qarabag Agdam",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:53:04.077",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68038,
+    "matchDateTime": "2023-10-26T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T16:45:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 436,
+      "teamName": "Olympiakos Piräus",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/9/96/Logo_Olympiakos_Pir%C3%A4us.svg/150px-Logo_Olympiakos_Pir%C3%A4us.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 551,
+      "teamName": "West Ham United FC",
+      "shortName": "West Ham",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:53:37.95",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68039,
+    "matchDateTime": "2023-10-26T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T16:45:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 5860,
+      "teamName": "FK TSC",
+      "shortName": "TSC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TSC_BT_logo.png/480px-TSC_BT_logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:53:54.297",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68040,
+    "matchDateTime": "2023-10-26T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T16:45:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 2557,
+      "teamName": "Olympique Marseille",
+      "shortName": "",
+      "teamIconUrl": "http://upload.wikimedia.org/wikipedia/de/thumb/2/27/Olympique_Marseille_Logo.svg/150px-Olympique_Marseille_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1217,
+      "teamName": "AEK Athen",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AEK_Athens_FC_logo.svg/115px-AEK_Athens_FC_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:54:07.42",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68041,
+    "matchDateTime": "2023-10-26T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T16:45:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 4199,
+      "teamName": "Sparta Prag",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/fe/Sparta_Prag.svg/497px-Sparta_Prag.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 732,
+      "teamName": "Glasgow Rangers",
+      "shortName": "",
+      "teamIconUrl": "https://iconape.com/wp-content/png_logo_vector/glasgow-rangers-logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:54:18.517",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68042,
+    "matchDateTime": "2023-10-26T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T16:45:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 5865,
+      "teamName": "Aris FC Limassol",
+      "shortName": "Aris Limassol",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/39/Aris_Limassol.jpg/455px-Aris_Limassol.jpg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1804,
+      "teamName": "Real Betis",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:54:30.307",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68043,
+    "matchDateTime": "2023-10-26T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T16:45:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 2491,
+      "teamName": "SK Sturm Graz",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1807,
+      "teamName": "Atalanta Bergamo",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:54:40.107",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68044,
+    "matchDateTime": "2023-10-26T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T16:45:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 5866,
+      "teamName": "Rakow Czestochowa",
+      "shortName": "Rakow Czestochowa",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4604,
+      "teamName": "Sporting CP",
+      "shortName": "Sporting CP",
+      "teamIconUrl": "https://s.hs-data.com/gfx/emblem/common/30x30/1776.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:54:50.867",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68045,
+    "matchDateTime": "2023-10-26T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T16:45:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 4572,
+      "teamName": "Brighton & Hove Albion F.C.",
+      "shortName": "Brighton & Hove Albion",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 455,
+      "teamName": "Ajax Amsterdam",
+      "shortName": "Ajax",
+      "teamIconUrl": "https://i.pinimg.com/originals/f3/55/7b/f3557b94915cab139518000362d56e5f.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:55:07.89",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68046,
+    "matchDateTime": "2023-10-26T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T16:45:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 2459,
+      "teamName": "Molde FK",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/50142.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 5307,
+      "teamName": "BK Häcken",
+      "shortName": "HÄCK",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:55:20.5",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68047,
+    "matchDateTime": "2023-10-26T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T19:00:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 4825,
+      "teamName": "Union St. Gilloise",
+      "shortName": "Union St. Gilloise",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 251,
+      "teamName": "LASK Linz",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:55:38.493",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68048,
+    "matchDateTime": "2023-10-26T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T19:00:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 370,
+      "teamName": "Liverpool FC",
+      "shortName": "Liverpool",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/7889.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4788,
+      "teamName": "FC Toulouse",
+      "shortName": "FCT",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/0/0a/FC_Toulouse_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:55:48.03",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68049,
+    "matchDateTime": "2023-10-26T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T19:00:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 382,
+      "teamName": "Villarreal CF",
+      "shortName": "",
+      "teamIconUrl": "http://www.uefa.com/ml/images/logos/50X50/70691.gif",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 734,
+      "teamName": "Maccabi Haifa",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/18x18/59045.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:55:57.693",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68050,
+    "matchDateTime": "2023-10-26T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T19:00:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 374,
+      "teamName": "Panathinaikos FC",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/50084.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4639,
+      "teamName": "Stade Rennes",
+      "shortName": "Rennes",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/b/b6/Stade_Rennais_Football_Club.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:56:07.003",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68051,
+    "matchDateTime": "2023-10-26T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T19:00:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 378,
+      "teamName": "AS Rom",
+      "shortName": "AS Rom",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/5/52/AS_Roma_logo_(2013).svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4578,
+      "teamName": "Slavia Prag",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b1/SK_Slavia_Praha.svg/100px-SK_Slavia_Praha.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:56:17.453",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68052,
+    "matchDateTime": "2023-10-26T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T19:00:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 1213,
+      "teamName": "Sheriff Tiraspol",
+      "shortName": "",
+      "teamIconUrl": "https://s.hs-data.com/gfx/emblem/common/100x100/12928.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1676,
+      "teamName": "Servette FC",
+      "shortName": "SFC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/36/Servette_FC_Etoile.svg/240px-Servette_FC_Etoile.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:56:28.32",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68053,
+    "matchDateTime": "2023-10-26T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-10-26T19:00:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 42796
+    },
+    "team1": {
+      "teamId": 6,
+      "teamName": "Bayer Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1200px-Bayer_Leverkusen_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4458,
+      "teamName": "Qarabag Agdam",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:56:38.56",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68054,
+    "matchDateTime": "2023-11-09T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T17:45:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 251,
+      "teamName": "LASK Linz",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4825,
+      "teamName": "Union St. Gilloise",
+      "shortName": "Union St. Gilloise",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:57:27.823",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68055,
+    "matchDateTime": "2023-11-09T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T17:45:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 4788,
+      "teamName": "FC Toulouse",
+      "shortName": "FCT",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/0/0a/FC_Toulouse_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 370,
+      "teamName": "Liverpool FC",
+      "shortName": "Liverpool",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/7889.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:57:40.277",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68056,
+    "matchDateTime": "2023-11-09T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T17:45:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 4639,
+      "teamName": "Stade Rennes",
+      "shortName": "Rennes",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/b/b6/Stade_Rennais_Football_Club.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 374,
+      "teamName": "Panathinaikos FC",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/50084.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:57:49.287",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68057,
+    "matchDateTime": "2023-11-09T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T17:45:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 734,
+      "teamName": "Maccabi Haifa",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/18x18/59045.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 382,
+      "teamName": "Villarreal CF",
+      "shortName": "",
+      "teamIconUrl": "http://www.uefa.com/ml/images/logos/50X50/70691.gif",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:57:58.473",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68058,
+    "matchDateTime": "2023-11-09T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T17:45:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 1676,
+      "teamName": "Servette FC",
+      "shortName": "SFC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/36/Servette_FC_Etoile.svg/240px-Servette_FC_Etoile.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1213,
+      "teamName": "Sheriff Tiraspol",
+      "shortName": "",
+      "teamIconUrl": "https://s.hs-data.com/gfx/emblem/common/100x100/12928.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:58:07.887",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68059,
+    "matchDateTime": "2023-11-09T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T17:45:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 4578,
+      "teamName": "Slavia Prag",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b1/SK_Slavia_Praha.svg/100px-SK_Slavia_Praha.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 378,
+      "teamName": "AS Rom",
+      "shortName": "AS Rom",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/5/52/AS_Roma_logo_(2013).svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:58:17.907",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68060,
+    "matchDateTime": "2023-11-09T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T17:45:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 4458,
+      "teamName": "Qarabag Agdam",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 6,
+      "teamName": "Bayer Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1200px-Bayer_Leverkusen_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:58:27.223",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68061,
+    "matchDateTime": "2023-11-09T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T17:45:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 455,
+      "teamName": "Ajax Amsterdam",
+      "shortName": "Ajax",
+      "teamIconUrl": "https://i.pinimg.com/originals/f3/55/7b/f3557b94915cab139518000362d56e5f.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4572,
+      "teamName": "Brighton & Hove Albion F.C.",
+      "shortName": "Brighton & Hove Albion",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:58:36.25",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68062,
+    "matchDateTime": "2023-11-09T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T20:00:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 5307,
+      "teamName": "BK Häcken",
+      "shortName": "HÄCK",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 2459,
+      "teamName": "Molde FK",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/50142.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:58:54.697",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68063,
+    "matchDateTime": "2023-11-09T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T20:00:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 5860,
+      "teamName": "FK TSC",
+      "shortName": "TSC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TSC_BT_logo.png/480px-TSC_BT_logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:59:04.47",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68064,
+    "matchDateTime": "2023-11-09T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T20:00:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 551,
+      "teamName": "West Ham United FC",
+      "shortName": "West Ham",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 436,
+      "teamName": "Olympiakos Piräus",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/9/96/Logo_Olympiakos_Pir%C3%A4us.svg/150px-Logo_Olympiakos_Pir%C3%A4us.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:59:15.407",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68065,
+    "matchDateTime": "2023-11-09T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T20:00:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 1217,
+      "teamName": "AEK Athen",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AEK_Athens_FC_logo.svg/115px-AEK_Athens_FC_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 2557,
+      "teamName": "Olympique Marseille",
+      "shortName": "",
+      "teamIconUrl": "http://upload.wikimedia.org/wikipedia/de/thumb/2/27/Olympique_Marseille_Logo.svg/150px-Olympique_Marseille_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:59:24.83",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68066,
+    "matchDateTime": "2023-11-09T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T20:00:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 1804,
+      "teamName": "Real Betis",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 5865,
+      "teamName": "Aris FC Limassol",
+      "shortName": "Aris Limassol",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/39/Aris_Limassol.jpg/455px-Aris_Limassol.jpg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:59:34.68",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68067,
+    "matchDateTime": "2023-11-09T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T20:00:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 732,
+      "teamName": "Glasgow Rangers",
+      "shortName": "",
+      "teamIconUrl": "https://iconape.com/wp-content/png_logo_vector/glasgow-rangers-logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4199,
+      "teamName": "Sparta Prag",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/fe/Sparta_Prag.svg/497px-Sparta_Prag.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:59:46.727",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68068,
+    "matchDateTime": "2023-11-09T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T20:00:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 1807,
+      "teamName": "Atalanta Bergamo",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 2491,
+      "teamName": "SK Sturm Graz",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T12:59:57.893",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68069,
+    "matchDateTime": "2023-11-09T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-09T20:00:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 42797
+    },
+    "team1": {
+      "teamId": 4604,
+      "teamName": "Sporting CP",
+      "shortName": "Sporting CP",
+      "teamIconUrl": "https://s.hs-data.com/gfx/emblem/common/30x30/1776.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 5866,
+      "teamName": "Rakow Czestochowa",
+      "shortName": "Rakow Czestochowa",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:00:10.187",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68070,
+    "matchDateTime": "2023-11-30T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T17:45:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 436,
+      "teamName": "Olympiakos Piräus",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/9/96/Logo_Olympiakos_Pir%C3%A4us.svg/150px-Logo_Olympiakos_Pir%C3%A4us.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:00:50.813",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68071,
+    "matchDateTime": "2023-11-30T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T17:45:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 5860,
+      "teamName": "FK TSC",
+      "shortName": "TSC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TSC_BT_logo.png/480px-TSC_BT_logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 551,
+      "teamName": "West Ham United FC",
+      "shortName": "West Ham",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:01:03.613",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68072,
+    "matchDateTime": "2023-11-30T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T17:45:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 1217,
+      "teamName": "AEK Athen",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AEK_Athens_FC_logo.svg/115px-AEK_Athens_FC_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4572,
+      "teamName": "Brighton & Hove Albion F.C.",
+      "shortName": "Brighton & Hove Albion",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:01:10.767",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68073,
+    "matchDateTime": "2023-11-30T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T17:45:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 4199,
+      "teamName": "Sparta Prag",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/fe/Sparta_Prag.svg/497px-Sparta_Prag.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1804,
+      "teamName": "Real Betis",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:01:18.88",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68074,
+    "matchDateTime": "2023-11-30T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T17:45:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 1807,
+      "teamName": "Atalanta Bergamo",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4604,
+      "teamName": "Sporting CP",
+      "shortName": "Sporting CP",
+      "teamIconUrl": "https://s.hs-data.com/gfx/emblem/common/30x30/1776.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:01:27.343",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68075,
+    "matchDateTime": "2023-11-30T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T17:45:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 2491,
+      "teamName": "SK Sturm Graz",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 5866,
+      "teamName": "Rakow Czestochowa",
+      "shortName": "Rakow Czestochowa",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:01:36.447",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68076,
+    "matchDateTime": "2023-11-30T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T17:45:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 734,
+      "teamName": "Maccabi Haifa",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/18x18/59045.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4639,
+      "teamName": "Stade Rennes",
+      "shortName": "Rennes",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/b/b6/Stade_Rennais_Football_Club.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:01:47.553",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68077,
+    "matchDateTime": "2023-11-30T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T20:00:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 2557,
+      "teamName": "Olympique Marseille",
+      "shortName": "",
+      "teamIconUrl": "http://upload.wikimedia.org/wikipedia/de/thumb/2/27/Olympique_Marseille_Logo.svg/150px-Olympique_Marseille_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 455,
+      "teamName": "Ajax Amsterdam",
+      "shortName": "Ajax",
+      "teamIconUrl": "https://i.pinimg.com/originals/f3/55/7b/f3557b94915cab139518000362d56e5f.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:02:05.777",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68078,
+    "matchDateTime": "2023-11-30T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T20:00:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 732,
+      "teamName": "Glasgow Rangers",
+      "shortName": "",
+      "teamIconUrl": "https://iconape.com/wp-content/png_logo_vector/glasgow-rangers-logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 5865,
+      "teamName": "Aris FC Limassol",
+      "shortName": "Aris Limassol",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/39/Aris_Limassol.jpg/455px-Aris_Limassol.jpg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:02:13.907",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68079,
+    "matchDateTime": "2023-11-30T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T20:00:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 370,
+      "teamName": "Liverpool FC",
+      "shortName": "Liverpool",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/7889.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 251,
+      "teamName": "LASK Linz",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:02:22.437",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68080,
+    "matchDateTime": "2023-11-30T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T20:00:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 4788,
+      "teamName": "FC Toulouse",
+      "shortName": "FCT",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/0/0a/FC_Toulouse_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4825,
+      "teamName": "Union St. Gilloise",
+      "shortName": "Union St. Gilloise",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:02:35.123",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68081,
+    "matchDateTime": "2023-11-30T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T20:00:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 382,
+      "teamName": "Villarreal CF",
+      "shortName": "",
+      "teamIconUrl": "http://www.uefa.com/ml/images/logos/50X50/70691.gif",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 374,
+      "teamName": "Panathinaikos FC",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/50084.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:02:43.89",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68082,
+    "matchDateTime": "2023-11-30T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T20:00:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 1676,
+      "teamName": "Servette FC",
+      "shortName": "SFC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/36/Servette_FC_Etoile.svg/240px-Servette_FC_Etoile.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 378,
+      "teamName": "AS Rom",
+      "shortName": "AS Rom",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/5/52/AS_Roma_logo_(2013).svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:02:52.403",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68083,
+    "matchDateTime": "2023-11-30T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T20:00:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 1213,
+      "teamName": "Sheriff Tiraspol",
+      "shortName": "",
+      "teamIconUrl": "https://s.hs-data.com/gfx/emblem/common/100x100/12928.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4578,
+      "teamName": "Slavia Prag",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b1/SK_Slavia_Praha.svg/100px-SK_Slavia_Praha.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:03:01.03",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68084,
+    "matchDateTime": "2023-11-30T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T20:00:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 2459,
+      "teamName": "Molde FK",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/50142.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4458,
+      "teamName": "Qarabag Agdam",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:03:12.427",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68085,
+    "matchDateTime": "2023-11-30T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-11-30T20:00:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 42832
+    },
+    "team1": {
+      "teamId": 5307,
+      "teamName": "BK Häcken",
+      "shortName": "HÄCK",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 6,
+      "teamName": "Bayer Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1200px-Bayer_Leverkusen_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:03:21.133",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68086,
+    "matchDateTime": "2023-12-14T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T17:45:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 4825,
+      "teamName": "Union St. Gilloise",
+      "shortName": "Union St. Gilloise",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 370,
+      "teamName": "Liverpool FC",
+      "shortName": "Liverpool",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/7889.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:04:52.83",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68087,
+    "matchDateTime": "2023-12-14T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T17:45:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 251,
+      "teamName": "LASK Linz",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4788,
+      "teamName": "FC Toulouse",
+      "shortName": "FCT",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/0/0a/FC_Toulouse_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:05:00.563",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68088,
+    "matchDateTime": "2023-12-14T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T17:45:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 4639,
+      "teamName": "Stade Rennes",
+      "shortName": "Rennes",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/b/b6/Stade_Rennais_Football_Club.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 382,
+      "teamName": "Villarreal CF",
+      "shortName": "",
+      "teamIconUrl": "http://www.uefa.com/ml/images/logos/50X50/70691.gif",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:05:08.223",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68089,
+    "matchDateTime": "2023-12-14T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T17:45:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 374,
+      "teamName": "Panathinaikos FC",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/50084.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 734,
+      "teamName": "Maccabi Haifa",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/18x18/59045.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:05:17.25",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68090,
+    "matchDateTime": "2023-12-14T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T17:45:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 378,
+      "teamName": "AS Rom",
+      "shortName": "AS Rom",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/5/52/AS_Roma_logo_(2013).svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1213,
+      "teamName": "Sheriff Tiraspol",
+      "shortName": "",
+      "teamIconUrl": "https://s.hs-data.com/gfx/emblem/common/100x100/12928.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:05:25.28",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68091,
+    "matchDateTime": "2023-12-14T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T17:45:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 4578,
+      "teamName": "Slavia Prag",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b1/SK_Slavia_Praha.svg/100px-SK_Slavia_Praha.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1676,
+      "teamName": "Servette FC",
+      "shortName": "SFC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/36/Servette_FC_Etoile.svg/240px-Servette_FC_Etoile.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:05:32.547",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68092,
+    "matchDateTime": "2023-12-14T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T17:45:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 6,
+      "teamName": "Bayer Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1200px-Bayer_Leverkusen_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 2459,
+      "teamName": "Molde FK",
+      "shortName": "",
+      "teamIconUrl": "http://img.uefa.com/imgml/TP/teams/logos/32x32/50142.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:05:40.453",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68093,
+    "matchDateTime": "2023-12-14T18:45:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T17:45:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 4458,
+      "teamName": "Qarabag Agdam",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 5307,
+      "teamName": "BK Häcken",
+      "shortName": "HÄCK",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:05:48.587",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68094,
+    "matchDateTime": "2023-12-14T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T20:00:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 551,
+      "teamName": "West Ham United FC",
+      "shortName": "West Ham",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:07:43.72",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68095,
+    "matchDateTime": "2023-12-14T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T20:00:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 436,
+      "teamName": "Olympiakos Piräus",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/9/96/Logo_Olympiakos_Pir%C3%A4us.svg/150px-Logo_Olympiakos_Pir%C3%A4us.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 5860,
+      "teamName": "FK TSC",
+      "shortName": "TSC",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TSC_BT_logo.png/480px-TSC_BT_logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:08:17.937",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68096,
+    "matchDateTime": "2023-12-14T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T20:00:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 455,
+      "teamName": "Ajax Amsterdam",
+      "shortName": "Ajax",
+      "teamIconUrl": "https://i.pinimg.com/originals/f3/55/7b/f3557b94915cab139518000362d56e5f.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1217,
+      "teamName": "AEK Athen",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AEK_Athens_FC_logo.svg/115px-AEK_Athens_FC_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:06:24.02",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68097,
+    "matchDateTime": "2023-12-14T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T20:00:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 4572,
+      "teamName": "Brighton & Hove Albion F.C.",
+      "shortName": "Brighton & Hove Albion",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 2557,
+      "teamName": "Olympique Marseille",
+      "shortName": "",
+      "teamIconUrl": "http://upload.wikimedia.org/wikipedia/de/thumb/2/27/Olympique_Marseille_Logo.svg/150px-Olympique_Marseille_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:06:31.91",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68098,
+    "matchDateTime": "2023-12-14T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T20:00:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 1804,
+      "teamName": "Real Betis",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 732,
+      "teamName": "Glasgow Rangers",
+      "shortName": "",
+      "teamIconUrl": "https://iconape.com/wp-content/png_logo_vector/glasgow-rangers-logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:06:40.11",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68099,
+    "matchDateTime": "2023-12-14T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T20:00:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 5865,
+      "teamName": "Aris FC Limassol",
+      "shortName": "Aris Limassol",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/3/39/Aris_Limassol.jpg/455px-Aris_Limassol.jpg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 4199,
+      "teamName": "Sparta Prag",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/fe/Sparta_Prag.svg/497px-Sparta_Prag.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:06:48.003",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68100,
+    "matchDateTime": "2023-12-14T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T20:00:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 4604,
+      "teamName": "Sporting CP",
+      "shortName": "Sporting CP",
+      "teamIconUrl": "https://s.hs-data.com/gfx/emblem/common/30x30/1776.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 2491,
+      "teamName": "SK Sturm Graz",
+      "shortName": "",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:09:24.833",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 68101,
+    "matchDateTime": "2023-12-14T21:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4662,
+    "leagueName": "Europa League 2023/24",
+    "leagueSeason": 2023,
+    "leagueShortcut": "uel2023",
+    "matchDateTimeUTC": "2023-12-14T20:00:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 42833
+    },
+    "team1": {
+      "teamId": 5866,
+      "teamName": "Rakow Czestochowa",
+      "shortName": "Rakow Czestochowa",
+      "teamIconUrl": "",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1807,
+      "teamName": "Atalanta Bergamo",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/2/28/Atalanta_BC.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-09-08T13:09:34.34",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  }
+]

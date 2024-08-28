@@ -1,0 +1,56 @@
+div.uefa_stats h3 {
+  text-align: center;
+  margin-block: 1.5rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  opacity: 0.86;
+}
+
+div.match_status {
+  text-align: center;
+  margin-top: 0.5rem;
+  color: var(--yellow);
+}
+
+div.goal_time_scorers {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 0.4rem;
+  opacity: 0.75;
+}
+
+div.goal_time_scorers p {
+  width: 27%;
+  color: var(--orange);
+}
+
+div.goal_time_scorers p span {
+  font-size: 80%;
+  color: var(--yellow);
+}
+
+div.goal_time_scorers p:last-child {
+  text-align: right;
+}
+
+div.goal_time_scorers p:first-child {
+  text-align: center;
+}
+
+@media (max-width: 590px) {
+  div.goal_time_scorers p {
+    font-size: 0.8em;
+    width: 45%;
+  }
+}
+/*# sourceMappingURL=Dashboard.css.map */

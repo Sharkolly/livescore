@@ -1,0 +1,74 @@
+div.bundesliga {
+  text-align: center;
+}
+
+div.german {
+  padding-bottom: 2rem;
+  padding-top: 1rem;
+  border-bottom: 2px solid var(--yellow);
+}
+
+div.german div.goal-scorers span {
+  font-style: italic;
+  font-weight: bold;
+}
+
+div.german-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 5rem;
+  margin-top: 1em;
+  text-align: center;
+}
+
+div.german-container h2 {
+  text-align: left;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 26%;
+  font-weight: lighter;
+  font-size: 1.2rem;
+  gap: 0.7rem;
+}
+
+div.german-container h2 img {
+  width: 20%;
+}
+
+div.german-container span.q {
+  font-size: 1.1em;
+}
+
+@media (max-width: 801px) {
+  div.german-container {
+    gap: 1rem;
+  }
+  div.german-container h2 {
+    font-size: .95em;
+    width: 27%;
+  }
+  div.german-container h2 img {
+    width: 23%;
+  }
+  div.german-container h2.team1 {
+    text-align: left;
+  }
+  div.german-container span.q {
+    font-size: .8em;
+  }
+}
+/*# sourceMappingURL=Bundesliga.css.map */
