@@ -37,7 +37,7 @@ function App() {
   const router = createBrowserRouter(
     createRoutesFromElements(
       // <Route element={<Layout />}>
-      <Route path="/" element={isAuthenticated ? <Layout /> : <SignUp />}> 
+      <Route path="/" element={isAuthenticated ? <Layout /> : <Login  />}> 
         <Route path="/" index element={<Dashboard />}/> 
         <Route path="/bundesliga" element={<Bundesliga />} />
         <Route path="/bet" element={<Bet />} />
